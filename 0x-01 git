@@ -1,5 +1,4 @@
-root@3b24c61bab8a:/alx-pre_course# add .
-0x-01-git
-Create mode READEME.md
-Writing objects 100%  (2/2) done.
+root@3b24c61bab8a:/alx-pre_course# mkdir 0x01-git
+root@3b24c61bab8a:/alx-pre_course# touch README.md
+root@3b24c61bab8a:/alx-pre_course# echo "Repo session" >README.md
 To To https://github.com/emojey001/alx-pre_course.git   
